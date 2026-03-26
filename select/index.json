@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "降りたくないです、この恋から。",
+  "base_artist": "すいそうぐらし",
+  "createdAt": "2026-03-26T17:51:52.591381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "降りたくないです、この恋から。",
+      "artist": "すいそうぐらし",
+      "has_synced": false,
+      "path": "select/01_降りたくないです、この恋から。_すいそうぐらし.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "降りたくないです、この恋から。",
+      "artist": "すいそうぐらし",
+      "has_synced": false,
+      "path": "select/pl_01_降りたくないです、この恋から。_すいそうぐらし.txt"
+    }
+  ]
+}
